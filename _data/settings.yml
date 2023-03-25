@@ -3,16 +3,15 @@
 # General Site Settings
 
 title: Pravesh's Pages
-logo:
+logo: "assets/images/icons/moon.png"
 author: themefisher
 description: this is meta description
-email-other: kandaxgames@gmail.com
+phone: N/A
 address: Columbus, Ohio, United States
 email: praveshkhanal1@gmail.com
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
@@ -50,8 +49,6 @@ social:
 # About Section
 blurb: Hello, my name is Pravesh Khanal. I create software, 3D art, and games. I have been programming since 2017 and creating 3D art for my games for several years. I often utilize programming to create 3D art faster, and good design to develop software better.
 
-blurb-btn-link: "/about"
-blurb-btn-name: know more
 
 # About Page
 
@@ -152,7 +149,7 @@ services:
   - {
       name: Game Design and Development,
       icon: ti-panel,
-      description: "I design video games (both 2D and 3D) using different engines like Unity or Unreal engine based on the project requirements. I have also created my own 2D engine in the past.",
+      description: "I design video games (both 2D and 3D) using different engines like Unity or Unreal engine based on the project requirements. I have also created my own 2D game engine in the past.",
       active: , # Add true to select section
     }
 
@@ -161,19 +158,19 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/pinocchio.png"
     url: "https://www.artstation.com/artwork/LeAxWP"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/dice.png"
     url: "https://kandax-games.itch.io/elemental-dice"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/train.png"
     url: "https://www.artstation.com/artwork/Xg1r9L"
 
-  - image: "assets/images/portfolio/item-4.png"
+  - image: "assets/images/portfolio/paint.png"
     url: "https://kandax-games.itch.io/thunder-paint"
 
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/logo-dark.png"
     url: "https://www.thebewiseinitiative.com/"
 
 # Portfolio Page
