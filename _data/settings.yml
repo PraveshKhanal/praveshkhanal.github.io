@@ -3,7 +3,7 @@
 # General Site Settings
 
 title: Pravesh's Pages
-logo: "assets/images/icons/moon.png"
+logo: 
 author: themefisher
 description: this is meta description
 phone: N/A
@@ -118,7 +118,7 @@ education-title: Education
 education:
 
   - {
-      name: High School Diploma - Valedictorian - GPA 4.1,
+      name: High School Diploma | Valedictorian | GPA 4.1,
       date: "2017",
       organization: "Northland High School",
     }  
@@ -167,7 +167,7 @@ portfolio-home-items:
   - image: "assets/images/portfolio/train.png"
     url: "https://www.artstation.com/artwork/Xg1r9L"
 
-  - image: "assets/images/portfolio/paint.png"
+  - image: "assets/images/portfolio/paint.PNG"
     url: "https://kandax-games.itch.io/thunder-paint"
 
   - image: "assets/images/portfolio/logo-dark.png"
