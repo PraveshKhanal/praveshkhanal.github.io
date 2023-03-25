@@ -6,8 +6,8 @@ title: Pravesh's Pages
 logo:
 author: themefisher
 description: this is meta description
-phone: N/A
-address: N/A
+email-other: kandaxgames@gmail.com
+address: Columbus, Ohio, United States
 email: praveshkhanal1@gmail.com
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Hello, my name is Pravesh Khanal. I have a bachelor’s degree in Computer Science and Engineering (CSE) from The Ohio State University. I have specializations in Software Engineering and Computer Graphics and Game Design.
+blurb: Hello, my name is Pravesh Khanal. I create software, 3D art, and games. I have been programming since 2017 and creating 3D art for my games for several years. I often utilize programming to create 3D art faster, and good design to develop software better.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -119,20 +119,16 @@ experience:
 
 education-title: Education
 education:
-  - {
-      name: Bachelors in Computer Science and Engineering,
-      date: "2021",
-      organization: "The Ohio State University",
-    }
-  - {
-      name: ICE Scholars,
-      date: "2017",
-      organization: "The Ohio State University",
-    }
+
   - {
       name: High School Diploma - Valedictorian - GPA 4.1,
       date: "2017",
       organization: "Northland High School",
+    }  
+  - {
+      name: Bachelors in Computer Science and Engineering,
+      date: "2021",
+      organization: "The Ohio State University",
     }
 
 #-------------------------------
@@ -143,13 +139,13 @@ services:
 
   - {
       name: 3D Art,
-      icon: ti-vector,
+      icon: ti-palette,
       description: "I create 3D models, renders, animations, simulations, etc. These can be game ready assets, images, or videos.",
       active: , # Add true to select section
     }
   - {
       name: Software Design and Development,
-      icon: ti-palette,
+      icon: ti-vector,
       description: "I design and develop a software to be deployed in various environments like Windows, MAC, IOS, or Android. They can be websites, applications, games, databases, etc.",
       active: true, # Add true to select section
     }
@@ -166,19 +162,19 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://www.artstation.com/artwork/LeAxWP"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://kandax-games.itch.io/elemental-dice"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://www.artstation.com/artwork/Xg1r9L"
 
   - image: "assets/images/portfolio/item-4.png"
-    url: "#"
+    url: "https://kandax-games.itch.io/thunder-paint"
 
   - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://www.thebewiseinitiative.com/"
 
 # Portfolio Page
 portfolio-label:
@@ -242,18 +238,8 @@ portfolio-items:
 testimonial-items:
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation: "CEO, Founder"
+    content: ""
 
 #-------------------------------
 # Client Slider Section
