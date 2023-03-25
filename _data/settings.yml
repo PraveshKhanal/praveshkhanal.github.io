@@ -2,11 +2,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Welcome To My Website!
+title: Pravesh's Pages
 logo:
 author: themefisher
 description: this is meta description
-email: khanal.13@osu.
+phone: N/A
+address: N/A
+email: praveshkhanal1@gmail.com
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -55,41 +57,38 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title: "Research and Plan"
+  - title: "Gather Requirements"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "When I start a new project, I gather all the requirements that needs to be met. This process acts as foundation for the rest of the processes so that there are goals that need to be met."
 
-  - title: "Design and Develop"
+  - title: "Development and Iteration"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "When I develop each component for the project, I iterate on its functionality first. Once the requirements are met functionally, I move on to the rest of the processes which involve aesthetic, documentation, communication, etc. After that, I go back and iterate on the entire component as a whole. The order of these steps may change based on the project requirements."
 
-  - title: "Deliver"
+  - title: "Testing and Delivering"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Once the development and iterations are complete, the project is ready to be tested as a whole. When issues are found in this step, I go back to the deveopment and iteration step and fix the issues. Once developer testing is complete, it will move to user testing and delivering the product."
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Pravesh Khanal"
     image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+    designation: "Solo Developer"
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
-
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Software Engineering, color: "#fdb157", value: "90%" }
+  - { name: Game Design, color: "#9473e6", value: "60%" }
+  - { name: 3D Modeling, color: "#bdecf6", value: "50%" }
+  - { name: Web App, color: "#ffbcaa", value: "60%" }
+  - { name: C#, color: "#9473e6", value: "90%" }
+  - { name: SQL, color: "#ffbcaa", value: "95%" }
+  - { name: Java, color: "#bdecf6", value: "80%" }
+  - { name: Python, color: "#9473e6", value: "50%" }
 
 #-------------------------------
 # Exprerience Section
@@ -97,22 +96,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Game Designer and Developer,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "AUG 2018 - Present",
+      organization: "SELF",
     }
   - {
-      name: UX & UI Designer,
+      name: 3D Artist,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "MAR 2020 - Present",
+      organization: "SELF",
     }
   - {
-      name: Senior UI Designer,
+      name: Software Developer,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Sep 2021 - Present",
+      organization: "OP&F",
     }
 
 #-------------------------------
@@ -121,24 +120,19 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Bachelors in Computer Science and Engineering,
+      date: "2021",
+      organization: "The Ohio State University",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: ICE Scholars,
+      date: "2017",
+      organization: "The Ohio State University",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: High School Diploma - Valedictorian - GPA 4.1,
+      date: "2017",
+      organization: "Northland High School",
     }
 
 #-------------------------------
@@ -146,23 +140,24 @@ education:
 
 services-title: Services
 services:
+
   - {
-      name: UI Design,
-      icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      name: 3D Art,
+      icon: ti-vector,
+      description: "I create 3D models, renders, animations, simulations, etc. These can be game ready assets, images, or videos.",
+      active: , # Add true to select section
     }
   - {
-      name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: Software Design and Development,
+      icon: ti-palette,
+      description: "I design and develop a software to be deployed in various environments like Windows, MAC, IOS, or Android. They can be websites, applications, games, databases, etc.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: Game Design and Development,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      description: "I design video games (both 2D and 3D) using different engines like Unity or Unreal engine based on the project requirements. I have also created my own 2D engine in the past.",
+      active: , # Add true to select section
     }
 
 #-------------------------------
@@ -298,4 +293,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: praveshkhanal1@gmail.com
