@@ -7,7 +7,7 @@ logo:
 author: themefisher
 description: this is meta description
 phone: N/A
-address: Columbus, Ohio, United States
+address: Ohio, United States
 email: praveshkhanal1@gmail.com
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -143,13 +143,13 @@ services:
   - {
       name: Software Design and Development,
       icon: ti-vector,
-      description: "I design and develop a software to be deployed in various environments like Windows, MAC, IOS, or Android. They can be websites, applications, games, databases, etc.",
+      description: "I design and develop softwares to be deployed in various environments like Windows, MAC, IOS, or Android. They can be websites, applications, games, databases, etc.",
       active: true, # Add true to select section
     }
   - {
       name: Game Design and Development,
       icon: ti-panel,
-      description: "I design video games (both 2D and 3D) using different engines like Unity or Unreal engine based on the project requirements. I have also created my own 2D game engine in the past.",
+      description: "I design video games (both 2D and 3D) using different engines like Unity or Unreal engine based on the project requirements. I have made many games and launched 2 games in itch.io so far.",
       active: , # Add true to select section
     }
 
